@@ -1,2 +1,6 @@
 # hello-world
-Just learning a bit
+
+
+Hello my friends!
+
+I want to learn node.js python js and more!
